@@ -38,6 +38,8 @@
 <li>Jitender Rathore <b>(845434)</b></li>
 <li>Kushal Shah <b>(1768625)</b></li>
 <li>Pavan Khedkar <b>(1822226)</b></li>
+<li>Saayali Vispute
+ <b>(1768201)</b></li>
 <li>Shailesh Madav  <b>(1444664)</b></li>
 <li>Shubham Soni
  <b>(1846853)</b></li>

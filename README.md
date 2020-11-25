@@ -34,6 +34,7 @@
 
 <ul>
 <li>Abhishek Kanparia <b>(973904)</b></li>
+<li>Aditya Wadhawan <b>(1774100)</b></li>
 <li>Jitender Rathore <b>(845434)</b></li>
 <li>Kushal Shah <b>(1768625)</b></li>
 <li>Shailesh Madav  <b>(1444664)</b></li>

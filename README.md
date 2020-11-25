@@ -11,7 +11,7 @@
 ## Basic Setup 
 1. For installation, [download](https://git-scm.com/) git for your respective platfrom.
 2. Configure your username with `git config --global user.name "[name]"`
-3. Configure yaour email with `git config --global user.email "[email address]"`
+3. Configure your email with `git config --global user.email "[email address]"`
 
 ## Basic Git commands
 

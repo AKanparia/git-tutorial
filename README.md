@@ -46,6 +46,7 @@
 <li>Shubham Soni
  <b>(1846853)</b></li>
 <li>Siddhesh Deshpande <b>(1777871)</b></li>
+<li>Sonal Chavan <b>(1787214)</b></li>
 <li>Soumyadip Roy
  <b>(1857388)</b></li>
 <li>SUBODH KUMAR

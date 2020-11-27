@@ -37,6 +37,8 @@
 <li>Aditya Wadhawan <b>(1774100)</b></li>
 <li>Akanksha Patro
  <b>(1771247)</b></li>
+<li>Eshika
+ <b>(1821178)</b></li>
 <li>Jitender Rathore <b>(845434)</b></li>
 <li>Kushal Shah <b>(1768625)</b></li>
 <li>Pavan Khedkar <b>(1822226)</b></li>

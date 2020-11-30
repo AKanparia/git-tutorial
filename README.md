@@ -43,6 +43,8 @@
 <li>Kushal Shah <b>(1768625)</b></li>
 <li>Md Safiul Haque <b>(1779416)</b></li>
 <li>Pavan Khedkar <b>(1822226)</b></li>
+<li>Pinak Bagchi
+ <b>(1793394)</b></li>
 <li>Saayali Vispute
  <b>(1768201)</b></li>
 <li>Shailesh Madav  <b>(1444664)</b></li>
